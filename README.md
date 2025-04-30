@@ -56,7 +56,7 @@ npm install
    - Create a `.env` file in the backend directory
    - Add necessary environment variables (see `.env.example`)
 
-## 🚀 Running the Application
+## Running the Application
 
 1. Start the backend server:
 ```bash
